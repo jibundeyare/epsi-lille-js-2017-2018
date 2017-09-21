@@ -5,6 +5,8 @@
 Testez les programmes suivants :
 
 ```
+$ ruby -v
+ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
 $ sass -v
 Sass 3.4.23 (Selective Steve)
 $ node -v
@@ -33,4 +35,10 @@ Pour lancer un serveur de développement, avec le terminal, rendez-vous dans le 
 
 ```
 php -S 0.0.0.0:8000
+```
+
+Pour afficher la page `events.html`, il faut taper dans la barre d'url du navigateur :
+
+```
+http://localhost:8000/events.html
 ```
