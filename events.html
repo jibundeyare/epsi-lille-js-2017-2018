@@ -14,7 +14,9 @@
       <div class="row">
         <div class="col-xs-12">
 
-          <label><input type="checkbox" /> case à cocher</label>
+          <label><input id="cb1" type="checkbox" /> case à cocher 1</label><br />
+          <label><input id="cb2" type="checkbox" /> case à cocher 2</label><br />
+          <label><input id="cb3" type="checkbox" /> case à cocher 3</label><br />
 
         </div>
       </div>
@@ -24,12 +26,13 @@
     <script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 
     <script type="text/javascript">
-      var element = document.querySelector('input');
+      var element = document.querySelector('#cb2');
 
-      // console.log(element);
+      console.log(element);
 
-      element.addEventListener('click', function() {
-        console.log('il y a eu un click');
+      element.addEventListener('click', function(event) {
+        console.log(event);
+        console.log('il y a eu un click sur ' + event.target.id);
       });
     </script>
   </body>
