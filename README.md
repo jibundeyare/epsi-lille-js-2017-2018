@@ -45,23 +45,29 @@ http://localhost:8000/events.html
 
 ## documentation
 
-[npm Documentation](https://docs.npmjs.com/getting-started/)
+### npm
 
-[mzabriskie/axios: Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
+- [npm Documentation](https://docs.npmjs.com/getting-started/)
 
-[EventTarget.addEventListener() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-[Document.querySelector() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-[document.querySelectorAll() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
-[HTMLElement.dataset - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
-[NodeList - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
-[Array.prototype.forEach() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-[DOMContentLoaded - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded)
-[load - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/load)
-[MouseEvent - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent)
-[TouchEvent - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
-[Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
-[Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
-[Event.preventDefault() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
-[Event.stopPropagation() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
-[Event.stopImmediatePropagation() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopImmediatePropagation)
+### axios
+
+- [mzabriskie/axios: Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
+
+### js
+
+- [EventTarget.addEventListener() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- [Document.querySelector() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [document.querySelectorAll() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+- [HTMLElement.dataset - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
+- [NodeList - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
+- [Array.prototype.forEach() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- [DOMContentLoaded - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded)
+- [load - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/load)
+- [MouseEvent - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent)
+- [TouchEvent - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
+- [Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- [Event.preventDefault() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+- [Event.stopPropagation() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
+- [Event.stopImmediatePropagation() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopImmediatePropagation)
 
