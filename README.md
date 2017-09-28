@@ -65,6 +65,7 @@ http://localhost:8000/events.html
 - [load - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/load)
 - [MouseEvent - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent)
 - [TouchEvent - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
+- [KeyboardEvent - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
 - [Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 - [Event.preventDefault() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
