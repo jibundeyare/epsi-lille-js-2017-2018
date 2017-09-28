@@ -18,22 +18,16 @@
           <label><input id="cb2" type="checkbox" /> case à cocher 2</label><br />
           <label><input id="cb3" type="checkbox" /> case à cocher 3</label><br />
 
+          <label><input id="cb4" class="my-cb" type="checkbox" /> case à cocher 4</label><br />
+          <label><input id="cb5" class="my-cb" type="checkbox" /> case à cocher 5</label><br />
+          <label><input id="cb6" class="my-cb" type="checkbox" /> case à cocher 6</label><br />
+
         </div>
       </div>
     </div>
 
     <script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
     <script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-
-    <script type="text/javascript">
-      var element = document.querySelector('#cb2');
-
-      console.log(element);
-
-      element.addEventListener('click', function(event) {
-        console.log(event);
-        console.log('il y a eu un click sur ' + event.target.id);
-      });
-    </script>
+    <script type="text/javascript" src="js/main.js"></script>
   </body>
 </html>
