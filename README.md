@@ -26,6 +26,8 @@ Note : ce n'est pas important d'avoir exactement les même numéros de version.
 Clonez ou dézippez le repository. Puis avec le terminal, rendez-vous dans le dossier du projet et tapez :
 
 ```
+git clone https://github.com/jibundeyare/epsi-lille-js-2017-2018.git
+cd epsi-lille-js-2017-2018
 npm install
 ```
 
@@ -71,4 +73,3 @@ http://localhost:8000/events.html
 - [Event.preventDefault() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
 - [Event.stopPropagation() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
 - [Event.stopImmediatePropagation() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopImmediatePropagation)
-
