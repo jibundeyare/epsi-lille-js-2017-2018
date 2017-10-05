@@ -23,7 +23,7 @@ Note : ce n'est pas important d'avoir exactement les même numéros de version.
 
 ## install
 
-Clonez ou dézippez le repository. Puis avec le terminal, rendez-vous dans le dossier du projet et tapez :
+Dézippez le repository ou avec le terminal, clonez-le, rendez-vous dans le dossier du projet et installez les dépendances :
 
 ```
 git clone https://github.com/jibundeyare/epsi-lille-js-2017-2018.git
